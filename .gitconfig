@@ -1,0 +1,11 @@
+[user]
+	email = matorixmatrix@gmail.com
+	name = matorix
+[core]
+	editor = vim
+[alias]
+	st = status
+	co = checkout
+	c  = commit
+	br = branch
+  a  = add
